@@ -1,0 +1,36 @@
+img { 
+    float: left;
+    margin: 50px;
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+  }
+  
+  .content1 {
+      display:grid;
+      grid-template-columns: 66% auto;
+      padding: 0 48px 48px 48px;
+  }
+  
+  .text1 {
+    margin: 0 64px;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+  }
+  
+  h1 {
+    margin-top: 0;
+  }
+  
+  #tag {
+    margin-top: 0;
+    margin-bottom: 24px;
+    letter-spacing: 3px;
+  }
+  
+  mark{
+    background: #004258;
+    color: white;
+    padding: 5px 5px;
+  }
